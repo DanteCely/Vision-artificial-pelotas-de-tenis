@@ -1,0 +1,52 @@
+
+	//================//
+    //  1----------2  //
+    //  |          |  //
+    //  |          |  //
+    //  |          |  //
+    //  4----------3  //
+    //================//
+	
+//Cancha1.1
+	fourPoints.x1 = 1565; fourPoints.y1 = 808; //1
+	fourPoints.x2 = 2300; fourPoints.y2 = 1046; //2
+	fourPoints.x3 = 565; fourPoints.y3 = 1555; //3
+	fourPoints.x4 = 259; fourPoints.y4 = 1047; //4
+
+//Cancha1.2
+	fourPoints.x1 = 1515; fourPoints.y1 = 801; //1
+	fourPoints.x2 = 2247; fourPoints.y2 = 992; //2
+	fourPoints.x3 = 578+10; fourPoints.y3 = 1617-10; //3
+	fourPoints.x4 = 224+10; fourPoints.y4 = 1127-10; //4
+
+//Cancha1.3
+	fourPoints.x1 = 1525; fourPoints.y1 = 880; //1
+	fourPoints.x2 = 2275; fourPoints.y2 = 1056; //2
+	fourPoints.x3 = 607+10; fourPoints.y3 = 1718-10; //3
+	fourPoints.x4 = 250+10; fourPoints.y4 = 1231-10; //4
+
+//Cancha2
+	fourPoints.x1 = 356; fourPoints.y1 = 440; //1
+	fourPoints.x2 = 793; fourPoints.y2 = 447; //2
+	fourPoints.x3 = 1040; fourPoints.y3 = 653-10; //3
+	fourPoints.x4 = 143; fourPoints.y4 = 647-10; //4
+//Cancha3_v1
+	fourPoints.x1 = 12; fourPoints.y1 = 1134; //1
+	fourPoints.x2 = 1028; fourPoints.y2 = 1064; //2
+	fourPoints.x3 = 2369; fourPoints.y3 = 1198; //3
+	fourPoints.x4 = 1149; fourPoints.y4 = 1443; //4
+//Cancha3_v2
+	fourPoints.x1 = 25; fourPoints.y1 = 911; //1
+	fourPoints.x2 = 1035; fourPoints.y2 = 804; //2
+	fourPoints.x3 = 2389; fourPoints.y3 = 876; //3
+	fourPoints.x4 = 1186; fourPoints.y4 = 1158; //4
+//Cancha4
+	fourPoints.x1 = 181; fourPoints.y1 = 477; //1
+	fourPoints.x2 = 545; fourPoints.y2 = 434; //2
+	fourPoints.x3 = 1132; fourPoints.y3 = 506; //3
+	fourPoints.x4 = 857; fourPoints.y4 = 685; //4
+//Cancha5
+	fourPoints.x1 = 747; fourPoints.y1 = 321; //1
+	fourPoints.x2 = 1233; fourPoints.y2 = 345; //2
+	fourPoints.x3 = 781; fourPoints.y3 = 612; //3
+	fourPoints.x4 = 152; fourPoints.y4 = 455; //4
